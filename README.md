@@ -5,13 +5,13 @@
   
   Милашка, зайчик и солнышко, который танцует за еду и всегда улыбается!
 
-  ![Пиксель](img\4.jpg)
+  ![Пиксель](https://github.com/ElizabethKorn/pets/blob/main/img/4.jpg?raw=true)
 
 - **Муха**
   
   Создание, которое ни от кого не зависит и делает что хочет.
 
-  ![Муха](img\6.jpg)
+  ![Муха](https://github.com/ElizabethKorn/pets/blob/main/img/6.jpg?raw=true)
 
 - **Демон**
   
